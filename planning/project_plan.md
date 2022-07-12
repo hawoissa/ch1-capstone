@@ -30,7 +30,7 @@ User Personas:
 - As a college student, I want to give my lists and list items specific names/categories/icons, so that my bucket lists reflect my interests and hobbies.
 - As a college student, I would like to edit a list item, so I can change date/location/price if needed.
 - As a college student, I would like to remove a list, so I can get rid of a list that I have lost interest in or am unable to do anymore.
-- As a college student, I want to see all my past accomplishments, so that I can reflect on what I’ve done in college so far and plan on what I want to accomplish on my bucket list in the future
+- As a college student, I want to see all my past accomplishments, so that I can reflect on what I’ve done in college so far and plan on what I want to accomplish on my bucket list in the future /
 
 
 
